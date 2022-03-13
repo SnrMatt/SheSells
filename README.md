@@ -3,4 +3,4 @@
 
 ### Front-End
 ---
-<span style = "color:#224058"> --primary: #224058</span>
+<span style = "color:blue"> --primary: #224058</span>
