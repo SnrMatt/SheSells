@@ -1,12 +1,15 @@
 # SheSells
-## A website that allows customers to sell their products
+### A website that allows customers to sell their products
 
-### Front-End
+## Front-End
+
+### Colors
 --primary:# 224058<br>
 --secondary: #3D8F8C<br>
 --primary_accent: #5E6182<br>
 --secondary_accent: #FE675D<br>
 --background: #EBEBEB<br>
+### Color Theme
 ```js
 
   palette: {
@@ -34,7 +37,7 @@
 
 ```
 
-### Design Ideas
+## Design Ideas
  Nice for product cards -- (https://www.velasca.com/pages/all-shoes)<br>
  Another of the nice products cards -- (https://www.allbirds.com/collections/mens)<br>
  Good nav bar  -- (https://www.guavafamily.com/)<br>
