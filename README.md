@@ -7,7 +7,8 @@
 --primary_accent: #5E6182<br>
 --secondary_accent: #FE675D<br>
 --background: #EBEBEB<br>
-    `palette: {
+    ```javascript
+    palette: {
         type: 'light',
         primary: {
         main: '#224058',
@@ -29,7 +30,7 @@
         fontFamily: 'Merriweather Sans',
         fontSize: 16,
     },
-    };`
+    };```
 
 ### Design Ideas
  Nice for product cards -- (https://www.velasca.com/pages/all-shoes)<br>
