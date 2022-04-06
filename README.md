@@ -1,7 +1,9 @@
 # SheSells
+
 ### A website that allows customers to sell their products
 
 ## Front-End
+
 
 ### Colors
 --primary:# 224058<br>
