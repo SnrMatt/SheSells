@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;700&display=swap');
+
+* {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+html { 
+  background-color: red;  
+}
+
+/*background-color: #EBEBEB;*/

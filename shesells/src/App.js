@@ -1,12 +1,14 @@
+import React from 'react';
+import Logo from './Components/UI/Logo';
+export default function App(){
+    return(
+       
+        <>
+        <Logo/>
+        
 
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      WhaleCum to this website.
-    </div>
-  );
+       
+        </>
+     
+    );
 }
-
-export default App;
